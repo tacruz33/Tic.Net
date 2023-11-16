@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/tales-araujo-cruz/Documentos/Tales.Net/Semana1/MeuProjeto/MeuProjeto.csproj": {}
+    "/home/tales-araujo-cruz/Documentos/Tic.Net/MeuProjeto/MeuProjeto.csproj": {}
   },
   "projects": {
-    "/home/tales-araujo-cruz/Documentos/Tales.Net/Semana1/MeuProjeto/MeuProjeto.csproj": {
+    "/home/tales-araujo-cruz/Documentos/Tic.Net/MeuProjeto/MeuProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tales-araujo-cruz/Documentos/Tales.Net/Semana1/MeuProjeto/MeuProjeto.csproj",
+        "projectUniqueName": "/home/tales-araujo-cruz/Documentos/Tic.Net/MeuProjeto/MeuProjeto.csproj",
         "projectName": "MeuProjeto",
-        "projectPath": "/home/tales-araujo-cruz/Documentos/Tales.Net/Semana1/MeuProjeto/MeuProjeto.csproj",
+        "projectPath": "/home/tales-araujo-cruz/Documentos/Tic.Net/MeuProjeto/MeuProjeto.csproj",
         "packagesPath": "/home/tales-araujo-cruz/.nuget/packages/",
-        "outputPath": "/home/tales-araujo-cruz/Documentos/Tales.Net/Semana1/MeuProjeto/obj/",
+        "outputPath": "/home/tales-araujo-cruz/Documentos/Tic.Net/MeuProjeto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tales-araujo-cruz/.nuget/NuGet/NuGet.Config"
