@@ -1,0 +1,5 @@
+/home/tales/Documentos/Tic.Net/Semana2/p002/obj/Debug/net7.0/p002.csproj.AssemblyReference.cache
+/home/tales/Documentos/Tic.Net/Semana2/p002/obj/Debug/net7.0/p002.GeneratedMSBuildEditorConfig.editorconfig
+/home/tales/Documentos/Tic.Net/Semana2/p002/obj/Debug/net7.0/p002.AssemblyInfoInputs.cache
+/home/tales/Documentos/Tic.Net/Semana2/p002/obj/Debug/net7.0/p002.AssemblyInfo.cs
+/home/tales/Documentos/Tic.Net/Semana2/p002/obj/Debug/net7.0/p002.csproj.CoreCompileInputs.cache

@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!"); 
 
 #region 
 
@@ -11,7 +11,7 @@ long tipoLong;
 tipoInteiro = int.MaxValue;
 tipoLong = long.MaxValue;
 
-tipoDouble = tipoInteiro = tipoLong;
+tipoDouble = tipoInteiro;
 
 tipoString = "100A";
 

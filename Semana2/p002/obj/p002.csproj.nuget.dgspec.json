@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/tales/Documentos/Tic.Net/MeuProjeto/MeuProjeto.csproj": {}
+    "/home/tales/Documentos/Tic.Net/Semana2/p002/p002.csproj": {}
   },
   "projects": {
-    "/home/tales/Documentos/Tic.Net/MeuProjeto/MeuProjeto.csproj": {
+    "/home/tales/Documentos/Tic.Net/Semana2/p002/p002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tales/Documentos/Tic.Net/MeuProjeto/MeuProjeto.csproj",
-        "projectName": "MeuProjeto",
-        "projectPath": "/home/tales/Documentos/Tic.Net/MeuProjeto/MeuProjeto.csproj",
+        "projectUniqueName": "/home/tales/Documentos/Tic.Net/Semana2/p002/p002.csproj",
+        "projectName": "p002",
+        "projectPath": "/home/tales/Documentos/Tic.Net/Semana2/p002/p002.csproj",
         "packagesPath": "/home/tales/.nuget/packages/",
-        "outputPath": "/home/tales/Documentos/Tic.Net/MeuProjeto/obj/",
+        "outputPath": "/home/tales/Documentos/Tic.Net/Semana2/p002/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tales/.nuget/NuGet/NuGet.Config"
