@@ -1,0 +1,15 @@
+/home/tales/Documentos/Tic.Net/Semana 3/exemploaula3/bin/Debug/net7.0/exemploaula3
+/home/tales/Documentos/Tic.Net/Semana 3/exemploaula3/bin/Debug/net7.0/exemploaula3.deps.json
+/home/tales/Documentos/Tic.Net/Semana 3/exemploaula3/bin/Debug/net7.0/exemploaula3.runtimeconfig.json
+/home/tales/Documentos/Tic.Net/Semana 3/exemploaula3/bin/Debug/net7.0/exemploaula3.dll
+/home/tales/Documentos/Tic.Net/Semana 3/exemploaula3/bin/Debug/net7.0/exemploaula3.pdb
+/home/tales/Documentos/Tic.Net/Semana 3/exemploaula3/obj/Debug/net7.0/exemploaula3.csproj.AssemblyReference.cache
+/home/tales/Documentos/Tic.Net/Semana 3/exemploaula3/obj/Debug/net7.0/exemploaula3.GeneratedMSBuildEditorConfig.editorconfig
+/home/tales/Documentos/Tic.Net/Semana 3/exemploaula3/obj/Debug/net7.0/exemploaula3.AssemblyInfoInputs.cache
+/home/tales/Documentos/Tic.Net/Semana 3/exemploaula3/obj/Debug/net7.0/exemploaula3.AssemblyInfo.cs
+/home/tales/Documentos/Tic.Net/Semana 3/exemploaula3/obj/Debug/net7.0/exemploaula3.csproj.CoreCompileInputs.cache
+/home/tales/Documentos/Tic.Net/Semana 3/exemploaula3/obj/Debug/net7.0/exemploaula3.dll
+/home/tales/Documentos/Tic.Net/Semana 3/exemploaula3/obj/Debug/net7.0/refint/exemploaula3.dll
+/home/tales/Documentos/Tic.Net/Semana 3/exemploaula3/obj/Debug/net7.0/exemploaula3.pdb
+/home/tales/Documentos/Tic.Net/Semana 3/exemploaula3/obj/Debug/net7.0/exemploaula3.genruntimeconfig.cache
+/home/tales/Documentos/Tic.Net/Semana 3/exemploaula3/obj/Debug/net7.0/ref/exemploaula3.dll
