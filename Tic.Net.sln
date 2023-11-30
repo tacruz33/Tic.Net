@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeuProjeto", "MeuProjeto\MeuProjeto.csproj", "{3DCB8A29-3930-4CBA-AB3C-947BD5D22C13}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "P003", "P003", "{2D1D6D13-5B2B-49E9-9363-B58FAA43EDA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atividade3", "P003\atividade3\atividade3.csproj", "{B5C1900D-0E74-43D9-BAFB-3EBE25543482}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,11 +19,18 @@ Global
 		{3DCB8A29-3930-4CBA-AB3C-947BD5D22C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DCB8A29-3930-4CBA-AB3C-947BD5D22C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DCB8A29-3930-4CBA-AB3C-947BD5D22C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5C1900D-0E74-43D9-BAFB-3EBE25543482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C1900D-0E74-43D9-BAFB-3EBE25543482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C1900D-0E74-43D9-BAFB-3EBE25543482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C1900D-0E74-43D9-BAFB-3EBE25543482}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6F868B00-BF90-4A17-9995-82B94ABB5C3B}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B5C1900D-0E74-43D9-BAFB-3EBE25543482} = {2D1D6D13-5B2B-49E9-9363-B58FAA43EDA3}
 	EndGlobalSection
 EndGlobal
